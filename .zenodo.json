@@ -1,14 +1,20 @@
 {
-    "description": "DESCRIPTION_GOES_HERE.", 
-    "title": "Robert's Farm of Ideas: RUNNING_NUMBER_OF_IDEA -- RUNNING_TITLE_OF_IDEA", 
+    "description": "Determine the thermodynamic properties for nucleotide conversions. Nucleotides are 5'-phosphates of nucleosides, and are known to interact with Mg2+ ions. Experiments regarding the equilibrium constant of reactions, e.g. of the "kinase" reaction (i.e. phosphorylation of a nucleoside to a nucleotide), need to take this and other interaction factors into account (e.g. scan this) to generate valuable results.", 
+    "title": "Robert's Farm of Ideas: 13 -- Determine the thermodynamic properties for nucleotide conversions", 
     "license": {
         "id": "CC-BY-4.0"
     }, 
     "notes": "Development is happening here: <a href='https://github.com/roberts-farm-of-ideas/RUNNING_NUMBER_OF_IDEA'>https://github.com/roberts-farm-of-ideas/RUNNING_NUMBER_OF_IDEA</a>", 
     "keywords": [
-        "KEYWORD1",
-        "",
-        "KEYWORDLAST"
+        "nucleotides",
+        "nucleosides",
+        "nucleoside phosphorylation",
+        "nucleotide dephosphorylation",
+        "nucleoside-phosphate kinase",
+        "equilibrium constant",
+        "thermodynamics",
+        "Gibbs energy of reaction",
+        "experimental work"
     ],
     "creators": [
     {
