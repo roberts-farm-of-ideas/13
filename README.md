@@ -1,10 +1,10 @@
-# Robert's Farm of Ideas: RUNNING_IDEA_NUMBER
+# Robert's Farm of Ideas: 13 -- Determine the thermodynamic properties for nucleotide conversions
 
 [![DOI of this idea](https://zenodo.org/badge/doi/CONCEPT_DOI_FROM_ZENODO.svg)](https://doi.org/CONCEPT_DOI_FROM_ZENODO)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## This idea in short
-It's good to have a template for multiple related things.
+Determine the thermodynamic properties for nucleotide conversions. Nucleotides are 5'-phosphates of nucleosides, and are known to interact with Mg2+ ions. Experiments regarding the equilibrium constant of reactions, e.g. of the "kinase" reaction (i.e. phosphorylation of a nucleoside to a nucleotide), need to take this and other interaction factors into account (e.g. scan this) to generate valuable results.
 
 ## Sounds great, but...
 You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? Well, you're probably right! 
